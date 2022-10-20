@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🚀关于我 
+
+Hi, 我是Potter。一个从事多年的开发，从前端到后端接触过很多技术和项目，导致我的知识面广而不精，直到最近几年我才强烈意识到问题的严重，迫使我根据自身情况寻找到属于自己的生态位，希望我能专注前端领域持续走下去。💪
+
+## ⚽平常活跃的社区
+- [**Medium**](LV3)(https://medium.com/@yxw007)
+- [**掘金**](https://juejin.cn/user/976022054640718)
+
+## 🎇精选文章
+- [How to make my first screen load 584% faster and reduce the size by 56%](https://medium.com/@yxw007/how-to-make-my-first-screen-load-584-faster-and-reduce-the-size-by-131-85351aa7bb4b)
+- [对称加密和非对称加密的应用](https://juejin.cn/post/6913544153859096590)
+
 [![Mr. github stats](https://github-readme-stats.vercel.app/api?username=yxw007)](https://vuescrolljs.yvescoding.org/)
