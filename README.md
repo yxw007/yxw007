@@ -20,6 +20,12 @@ Hi, 我是Potter。一个从事多年的开发，从前端到后端接触过很�
 ## ⚽平常活跃的社区
 - [**Medium**](https://medium.com/@yxw007)
 - [**掘金**(LV3)](https://juejin.cn/user/976022054640718)
+- [得到](https://www.dedao.cn/?search=none)
+
+> 我是一个终身学习者，努力成为更强大的自己。以下是我的学生证，欢迎加我为同学🥃
+
+![](https://cdn.jsdelivr.net/gh/yxw007/BlogPicBed@master/img/20221020224509.png)
+
 
 ## 🎇精选文章
 - [How to make my first screen load 584% faster and reduce the size by 56%](https://medium.com/@yxw007/how-to-make-my-first-screen-load-584-faster-and-reduce-the-size-by-131-85351aa7bb4b)
