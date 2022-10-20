@@ -28,5 +28,5 @@ Hi, 我是Potter。一个从事多年的开发，从前端到后端接触过很�
 
 [![Mr. github stats](https://github-readme-stats.vercel.app/api?username=yxw007)](https://vuescrolljs.yvescoding.org/)
 
-> 我是一个终身学习者，努力成为更强大的自己。以下是我的学生证，欢迎加我为同学🥃
+> 我也是一个终身学习者，努力成为更强大的自己。下面是我的学生证，欢迎加我为同学哦~ 🥰🥃
 <image src="https://cdn.jsdelivr.net/gh/yxw007/BlogPicBed@master/img/20221020224509.png" style="width='230px';height='340px'"/>
