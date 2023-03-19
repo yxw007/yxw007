@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🚀关于我 
 
-Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前端领域，聚焦vue生态开发与实践。💪
+Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前端领域，聚焦前端开发与实践。💪
 
 ## ⚽平常活跃站点
 - [**个人博客**](https://yanxuewen.cn)
