@@ -30,6 +30,3 @@ Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前�
 - [函数式编程学习笔记](https://yanxuewen.cn/ES6_Functional_Programming)
 
 [![Mr. github stats](https://github-readme-stats.vercel.app/api?username=yxw007)](https://vuescrolljs.yvescoding.org/)
-
-> 我也是一个终身学习者，努力成为更强大的自己。下面是我的学生证，欢迎加我为同学哦~ 🥰🥃
-<image src="https://cdn.jsdelivr.net/gh/yxw007/BlogPicBed@master/img/20221020224509.png" style="width='230px';height='340px'"/>
