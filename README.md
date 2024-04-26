@@ -25,6 +25,7 @@ Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前�
 ## 🎇精选文章([更多](https://yanxuewen.cn))
 - [How to make my first screen load 5.8x faster and reduce the size by 56%](https://medium.com/@yxw007/how-to-make-my-first-screen-load-584-faster-and-reduce-the-size-by-131-85351aa7bb4b)
 - [对称加密和非对称加密的应用](https://juejin.cn/post/6913544153859096590)
+- [让小白都能了解Base64原理](https://juejin.cn/post/7360528073631793163)
 
 ## ⚔实战系列([更多](https://yanxuewen.cn))
 - [Electron 实战笔记](https://yanxuewen.cn/article/04-practic/Electron/Electron%20%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%2001%EF%BC%9A%E4%B8%BB%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%B8%B2%E6%9F%93%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1.html)
