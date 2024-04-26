@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前端领域，聚焦前端开发与实践。💪
 [![Mr. github stats](https://github-readme-stats.vercel.app/api?username=yxw007)](https://vuescrolljs.yvescoding.org/)
 
-## ⚽平常活跃站点
-- [**个人博客**](https://yanxuewen.cn)
-- [**Medium**](https://medium.com/@yxw007)
-- [**掘金**(LV3)](https://juejin.cn/user/976022054640718)
+## ⚽ 社区站点
+- [**个人博客(持续更新)**](https://yanxuewen.cn)
+- [**掘金LV3(持续更新)**](https://juejin.cn/user/976022054640718)
+- [**Medium(持续更新)**](https://medium.com/@yxw007)
+- [**CSDN专家(已停更)**](https://blog.csdn.net/aa4790139?type=lately)
 
 ## 🎇精选文章([更多](https://yanxuewen.cn))
 - [How to make my first screen load 5.8x faster and reduce the size by 56%](https://medium.com/@yxw007/how-to-make-my-first-screen-load-584-faster-and-reduce-the-size-by-131-85351aa7bb4b)
