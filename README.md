@@ -29,6 +29,7 @@ Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前�
 ## ⚔实战系列([更多](https://yanxuewen.cn))
 - [Electron 实战笔记](https://yanxuewen.cn/article/04-practic/Electron/Electron%20%E5%85%A5%E9%97%A8%E5%AE%9E%E6%88%98%2001%EF%BC%9A%E4%B8%BB%E8%BF%9B%E7%A8%8B%E4%B8%8E%E6%B8%B2%E6%9F%93%E8%BF%9B%E7%A8%8B%E9%80%9A%E4%BF%A1.html)
 - [Uniapp 实战笔记](https://yanxuewen.cn/article/04-practic/Uniapp/UniApp02.html)
+- [Vue3.x实战笔记](https://juejin.cn/column/6961211906866708517)
 
 ## 🛩小玩具
 - [Pup-ui(基于vue3组件库)](https://github.com/yxw007/Pup-ui)
