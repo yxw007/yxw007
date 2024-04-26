@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## 🚀关于我 
 
 Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前端领域，聚焦前端开发与实践。💪
+[![Mr. github stats](https://github-readme-stats.vercel.app/api?username=yxw007)](https://vuescrolljs.yvescoding.org/)
 
 ## ⚽平常活跃站点
 - [**个人博客**](https://yanxuewen.cn)
@@ -45,5 +46,3 @@ Hi, 我是Potter。一个从事多年开发工作的同学，目前专注web前�
 - [Pinia 核心原理](https://yanxuewen.cn/article/03-framework/20-react/1.%E6%9B%B4%E6%96%B0%E9%98%9F%E5%88%97(%E6%9E%84%E5%BB%BA+%E5%A4%84%E7%90%86).html)
 - [Vue SSR 核心原理](https://yanxuewen.cn/article/04-practic/Vue-ssr/01-vue-ssr-%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0.html)
 - [React18 核心原理](https://yanxuewen.cn/article/03-framework/20-react/1.%E6%9B%B4%E6%96%B0%E9%98%9F%E5%88%97(%E6%9E%84%E5%BB%BA+%E5%A4%84%E7%90%86).html)
-
-[![Mr. github stats](https://github-readme-stats.vercel.app/api?username=yxw007)](https://vuescrolljs.yvescoding.org/)
