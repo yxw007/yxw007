@@ -18,18 +18,17 @@ Here are some ideas to get you started:
 Hi, I am Potter.A classmate engaged in more than ten years of development, currently focusing on the development and practice of Web front-end.💪
 
 Blogger, Lifelong learner.
+- 🐦[**Twitter**](https://x.com/_yxw007)
+- 📝[**Blog**](https://yanxuewen.cn)
+- ✉️[**Ping me by Email**](mailto:aa4790139@gmail.com)
+- 💬**Wechat**: aa4790139
+- ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN(Stopped)**](https://blog.csdn.net/aa4790139?type=lately)
 
 <div style="float: right;">
   <a href="https://vuescrolljs.yvescoding.org/">
     <img src="https://github-readme-stats.vercel.app/api?username=yxw007" alt="Mr. github stats">
   </a>
 </div>
-
-- 🐦[**Twitter**](https://x.com/_yxw007)
-- 📝[**Blog**](https://yanxuewen.cn)
-- ✉️[**Ping me by Email**](mailto:aa4790139@gmail.com)
-- 💬**Wechat**: aa4790139
-- ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN(Stopped)**](https://blog.csdn.net/aa4790139?type=lately)
 
 <br/>
 
