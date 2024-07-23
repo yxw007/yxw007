@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🚀关于我
+## 🚀About me
 
 Hi, I am Potter.A classmate engaged in more than ten years of development, currently focusing on the development and practice of Web front-end.💪
 
