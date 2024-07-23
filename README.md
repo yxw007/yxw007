@@ -38,6 +38,7 @@ Blogger, Lifelong learner.
 | ----------- | ------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
 | artipub     | article release assistant | ![GitHub stars](https://img.shields.io/github/stars/Pup007/artipub?style=social)     | [address](https://github.com/Pup007/artipub) |
 | QRCodeTools | 简单已用的二维码识别工具  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/artipub) |
+| vscode-google-translate | Translate text right in your code  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-google-translate?style=social) | [address](https://github.com/yxw007/vscode-google-translate) |
 
 ## 🛩 My open source toys
 
