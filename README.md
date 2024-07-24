@@ -26,8 +26,6 @@ Blogger, Lifelong learner.
 - 💬**Wechat**: aa4790139
 - ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN(Stopped)**](https://blog.csdn.net/aa4790139?type=lately)
 
-<br/>
-
 ## 🌐 My open source project
 
 | name        | description               | star                                                                                 | address                                      |
