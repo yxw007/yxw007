@@ -37,7 +37,7 @@ Blogger, Lifelong learner.
 | name        | description               | star                                                                                 | address                                      |
 | ----------- | ------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
 | artipub     | article release assistant | ![GitHub stars](https://img.shields.io/github/stars/Pup007/artipub?style=social)     | [address](https://github.com/Pup007/artipub) |
-| QRCodeTools | 简单已用的二维码识别工具  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/artipub) |
+| QRCodeTools | Simple and easy to use QR code recognition tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/artipub) |
 | vscode-google-translate | Translate text right in your code  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-google-translate?style=social) | [address](https://github.com/yxw007/vscode-google-translate) |
 
 ## 🛩 My open source toys
@@ -53,5 +53,5 @@ Blogger, Lifelong learner.
 | vue-waterfall         | Waterfall based on Vue3                    | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vue-waterfall?style=social)         | [address](https://github.com/yxw007/vue-waterfall)         |
 | uniapp-font-processor | uniapp-font-processor                      | ![GitHub stars](https://img.shields.io/github/stars/yxw007/uniapp-font-processor?style=social) | [address](https://github.com/yxw007/uniapp-font-processor) |
 | vue-principle-learn   | vue-principle-learn                        | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vue-principle-learn?style=social)   | [address](https://github.com/yxw007/vue-principle-learn)   |
-| JBoVoAnnotationGen    | JAVA BO\VO 注解生成cli                     | ![GitHub stars](https://img.shields.io/github/stars/yxw007/JBoVoAnnotationGen?style=social)      | [address](https://github.com/yxw007/JBoVoAnnotationGen)   |
+| JBoVoAnnotationGen    | Java BO\VO annotation generate cli                     | ![GitHub stars](https://img.shields.io/github/stars/yxw007/JBoVoAnnotationGen?style=social)      | [address](https://github.com/yxw007/JBoVoAnnotationGen)   |
 
