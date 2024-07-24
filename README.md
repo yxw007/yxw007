@@ -53,4 +53,5 @@ Blogger, Lifelong learner.
 | vue-waterfall         | Waterfall based on Vue3                    | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vue-waterfall?style=social)         | [address](https://github.com/yxw007/vue-waterfall)         |
 | uniapp-font-processor | uniapp-font-processor                      | ![GitHub stars](https://img.shields.io/github/stars/yxw007/uniapp-font-processor?style=social) | [address](https://github.com/yxw007/uniapp-font-processor) |
 | vue-principle-learn   | vue-principle-learn                        | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vue-principle-learn?style=social)   | [address](https://github.com/yxw007/vue-principle-learn)   |
+| JBoVoAnnotationGen    | JAVA BO\VO 注解生成cli                     | ![GitHub stars](https://img.shields.io/github/stars/yxw007/JBoVoAnnotationGen?style=social)      | [address](https://github.com/yxw007/JBoVoAnnotationGen)   |
 
