@@ -39,7 +39,7 @@ Blogger, Lifelong learner.
 | name        | description               | star                                                                                 | address                                      |
 | ----------- | ------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
 | Nuxt | The Intuitive Vue Framework | ![GitHub stars](https://img.shields.io/github/stars/nuxt/nuxt?style=social)  |[address](https://github.com/nuxt/nuxt) |
-| cookie-es | 🍪 Cookie and Set-Cookie parser and serializer | ![GitHub stars](https://img.shields.io/github/stars/unjs/cookie-es?style=social)  |[address]([https://github.com/nuxt/nuxt](https://github.com/unjs/cookie-es)) |
+| cookie-es | 🍪 Cookie and Set-Cookie parser and serializer | ![GitHub stars](https://img.shields.io/github/stars/unjs/cookie-es?style=social)  |[address](https://github.com/unjs/cookie-es) |
 
 
 ## 🛩 My open source toys
