@@ -33,6 +33,7 @@ Blogger, Lifelong learner.
 | artipub     | article release assistant | ![GitHub stars](https://img.shields.io/github/stars/artipub/artipub?style=social)     | [address](https://github.com/artipub/artipub) |
 | QRCodeTools | Simple and easy to use QR code recognition tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/QRCodeTools) |
 | translate | A simple library that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/translate?style=social) | [address](https://github.com/yxw007/translate) |
+| vscode-translate-next | A simple vscode extension that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-translate-next?style=social) | [address](https://github.com/yxw007/vscode-translate-next) |
 | vscode-google-translate | Translate text right in your code  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-google-translate?style=social) | [address](https://github.com/yxw007/vscode-google-translate) |
 
 ## 🤝 Contributed project
