@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🚀About me
 
-Hi, I am Potter.A classmate engaged in more than ten years of development, currently focusing on the development and practice of Web front-end.💪
+Hi, I am FreeCoderX.A classmate engaged in more than ten years of development, currently focusing on the development and practice of Web front-end.💪
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yxw007&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
