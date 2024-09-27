@@ -35,6 +35,7 @@ Blogger, Lifelong learner.
 | translate | A simple library that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/translate?style=social) | [address](https://github.com/yxw007/translate) |
 | vscode-translate-next | A simple vscode extension that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-translate-next?style=social) | [address](https://github.com/yxw007/vscode-translate-next) |
 | vscode-google-translate | Translate text right in your code  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-google-translate?style=social) | [address](https://github.com/yxw007/vscode-google-translate) |
+| OpenDream | 涵盖：开源经验分享、产品运营、开通赞助、各种海外平台注册、海外公司注册、海外各种银行账户注册等等  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/OpenDream?style=social) | [address](https://github.com/yxw007/OpenDream) |
 
 ## 🤝 Contributed project
 | name        | description               | star                                                                                 | address                                      |
