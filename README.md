@@ -19,12 +19,17 @@ Hi, I am FreeCoderX.A classmate engaged in more than ten years of development, c
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yxw007&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-Blogger, Lifelong learner.
+[![](https://visitcount.itsvg.in/api?id=yxw007&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+
+Blogger, Lifelong learner. 
+
 - 🐦[**Twitter**](https://x.com/_yxw007)
 - 📝[**Blog**](https://yanxuewen.cn)
 - ✉️[**Ping me by Email**](mailto:aa4790139@gmail.com)
 - 💬**Wechat**: aa4790139
 - ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN**](https://blog.csdn.net/aa4790139?type=lately)
+
+
 
 ## 🌐 My open source project
 
