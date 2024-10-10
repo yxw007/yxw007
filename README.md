@@ -33,9 +33,9 @@ Blogger, Lifelong learner.
   <img src="https://github-readme-stats.vercel.app/api?username=yxw007&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&hide_border=true" />
   <table>
   <tr>
-    <td style="display:table-cell; vertical-align:middle">
-      <span>Count of visits:</span>
-      <img src="https://profile-counter.glitch.me/yxw007/count.svg" style="height:1em;" />
+    <td style="display:table-cell; vertical-align:middle;">
+      <p style="font-size:22px; text-align: center;">The Counter of visits from Oct 10, 2022: </p>
+      <img src="https://profile-counter.glitch.me/yxw007/count.svg" />
     </td>
   </tr>
   </table>
