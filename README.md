@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 Hi, I am FreeCoderX.A classmate engaged in more than ten years of development, currently focusing on the development and practice of Web front-end.💪
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yxw007&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-[![](https://visitcount.itsvg.in/api?id=yxw007&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 Blogger, Lifelong learner. 
 
@@ -28,6 +26,21 @@ Blogger, Lifelong learner.
 - ✉️[**Ping me by Email**](mailto:aa4790139@gmail.com)
 - 💬**Wechat**: aa4790139
 - ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN**](https://blog.csdn.net/aa4790139?type=lately)
+
+## 📈 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yxw007&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&hide_border=true" />
+  <table>
+  <tr>
+    <td style="display:table-cell; vertical-align:middle">
+      <span>Count of visits:</span>
+      <img src="https://profile-counter.glitch.me/yxw007/count.svg" style="height:1em;" />
+    </td>
+  </tr>
+  </table>
+</div>
+
 
 
 
