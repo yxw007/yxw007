@@ -24,7 +24,7 @@ Blogger, Lifelong learner.
 - 🐦[**Twitter**](https://x.com/_yxw007)
 - 📝[**Blog**](https://yanxuewen.cn)
 - ✉️[**Ping me by Email**](mailto:aa4790139@gmail.com)
-- 💬**Wechat**: aa4790139
+- 💬**Wechat**: freecoder007
 - ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN**](https://blog.csdn.net/aa4790139?type=lately)
 
 ## 📈 Stats
