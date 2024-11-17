@@ -49,9 +49,9 @@ Blogger, Lifelong learner.
 | Name        | Description               | Star                                                                                 | Address                                      |
 | ----------- | ------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------- |
 | artipub     | article release assistant | ![GitHub stars](https://img.shields.io/github/stars/artipub/artipub?style=social)     | [address](https://github.com/artipub/artipub) |
-| QRCodeTools | Simple and easy to use QR code recognition tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/QRCodeTools) |
 | translate | A simple library that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/translate?style=social) | [address](https://github.com/yxw007/translate) |
 | vscode-translate-next | A simple vscode extension that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-translate-next?style=social) | [address](https://github.com/yxw007/vscode-translate-next) |
+| QRCodeTools | Simple and easy to use QR code recognition tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/QRCodeTools) |
 | OpenDream | 涵盖：开源经验分享、产品运营、开通赞助、各种海外平台注册、海外公司注册、海外各种银行账户注册等等  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/OpenDream?style=social) | [address](https://github.com/yxw007/OpenDream) |
 
 ## 🤝 Contributed project
