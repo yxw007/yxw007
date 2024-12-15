@@ -25,7 +25,7 @@ Blogger, Lifelong learner.
 - 📝[**Blog**](https://yanxuewen.cn)
 - ✉️[**Ping me by Email**](mailto:aa4790139@gmail.com)
 - 💬**Wechat**: freecoder007
-- ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN**](https://blog.csdn.net/aa4790139?type=lately)
+- ⚒ **More social media**: [Medium](https://medium.com/@yxw007) / [Dev.to](https://dev.to/yxw007) / [bilibili](https://space.bilibili.com/3546754775517426) / [掘金](https://juejin.cn/user/976022054640718) / [**CSDN**](https://blog.csdn.net/aa4790139?type=lately)
 
 ## 📈 Stats
 
@@ -51,6 +51,7 @@ Blogger, Lifelong learner.
 | artipub     | article release assistant | ![GitHub stars](https://img.shields.io/github/stars/artipub/artipub?style=social)     | [address](https://github.com/artipub/artipub) |
 | translate | A simple library that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/translate?style=social) | [address](https://github.com/yxw007/translate) |
 | vscode-translate-next | A simple vscode extension that supports multiple translation engines  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/vscode-translate-next?style=social) | [address](https://github.com/yxw007/vscode-translate-next) |
+| nest-template | A project to rapidly develop API templates based on nest.js  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/nest-template?style=social) | [address](https://github.com/yxw007/nest-template) |
 | QRCodeTools | Simple and easy to use QR code recognition tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/QRCodeTools) |
 | OpenDream | 涵盖：开源经验分享、产品运营、开通赞助、各种海外平台注册、海外公司注册、海外各种银行账户注册等等  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/OpenDream?style=social) | [address](https://github.com/yxw007/OpenDream) |
 
