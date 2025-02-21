@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 Hi, I am FreeCoderX.A classmate engaged in more than ten years of development, currently focusing on the development and practice of Web front-end.💪
 
-> **Due to my work, I have to suspend the maintenance of open source projects, I will resume the maintenance of open source projects as soon as possible after I find a good new job, I hope you understand!
-I am currently looking for Web development jobs , if you have a related recruitment needs welcome to contact me by e-mail , thank you ! 🙏**
-
-
 Blogger, Lifelong learner. 
 
 - 🐦[**Twitter**](https://x.com/_yxw007)
