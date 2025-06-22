@@ -52,6 +52,7 @@ Blogger, Lifelong learner.
 | nest-template | A project to rapidly develop API templates based on nest.js  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/nest-template?style=social) | [address](https://github.com/yxw007/nest-template) |
 | QRCodeTools | Simple and easy to use QR code recognition tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/QRCodeTools?style=social) | [address](https://github.com/yxw007/QRCodeTools) |
 | eslint-plugin-jsreport | ESLint plugin for jsreport custom syntax validation  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/eslint-plugin-jsreport?style=social) | [address](https://github.com/yxw007/eslint-plugin-jsreport) |
+| git-query | A command-line git record query CI tool  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/git-query?style=social) | [address](https://github.com/yxw007/git-query) |
 | OpenDream | 涵盖：开源经验分享、产品运营、开通赞助、各种海外平台注册、海外公司注册、海外各种银行账户注册等等  | ![GitHub stars](https://img.shields.io/github/stars/yxw007/OpenDream?style=social) | [address](https://github.com/yxw007/OpenDream) |
 
 
